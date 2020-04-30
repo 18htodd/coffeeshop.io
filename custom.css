@@ -1,0 +1,157 @@
+.jumbotron {
+  background-color: #7d5936 !important;
+  opacity: 90%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  color: #f7f2ed !important;
+}
+
+body {
+  background-image: url("coffeebackground2.jpg");
+  background-size: cover;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: "Apple Chancery", serif;
+  font-style: italic;
+}
+h2 {
+  font-weight: bold;
+font-family: 'Cutive Mono', Palatino, serif;
+  font-style: oblique;
+}
+
+p {
+  font-family: 'Apple Chancery', Palatino, serif;
+
+}
+h5 {
+  font-family: 'Cutive Mono', Palatino, serif;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 10px;
+}
+h3 {
+  font-family: 'Cutive Mono', Palatino, serif;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+footer {
+  background-color:black ;
+  color: white;
+  width: 100%;
+  background-size: cover;
+
+}
+
+#bottom1 {
+  background-color: grey;
+  opacity: 90%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+
+}
+
+#bottom {
+  background-color: grey;
+  opacity: 90%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+#top {
+    background-color: grey;
+    opacity: 90%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+}
+
+.checked {
+  color: orange;
+}
+
+#goosecreek {
+  border-radius: 25px;
+}
+
+#goosecreek2 {
+  border-radius: 25px;
+}
+
+#chucktown {
+  border-radius: 25px;
+}
+
+#chucktown2 {
+  border-radius: 25px;
+}
+
+#coffee {
+  border-radius: 25px;
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+#contactinfo {
+  text-align: center;
+}
+
+#aboutfooter {
+  text-align: center;
+  font-style: oblique;
+  font-size: 26px;
+}
+
+#menuheader {
+    background-color: grey;
+    opacity: 90%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+  }
+
+#menu1 {
+        background-color: grey;
+        opacity: 90%;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+        border-bottom-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+        text-align: center;
+
+
+}

@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url("coffeebackground2.jpg");
+  background-image: url("https://res.cloudinary.com/drv2vrch0/image/upload/v1588554694/coffeebackground2_ky0zue.jpg");
   background-size: cover;
 }
 
@@ -90,9 +90,17 @@ footer {
 #bottom {
   background-color: grey;
   opacity: 90%;
+}
+
+#gazette {
+  background-color: grey;
+  opacity: 90%;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
 }
+
+
+
 #top {
     background-color: grey;
     opacity: 90%;
